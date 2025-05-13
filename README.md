@@ -16,6 +16,11 @@
 - 🎯 Multi-goal support (opsional)
 
 ---
+## 📥 Download Aplikasi
+
+[![Download APK](https://img.shields.io/badge/Download%20DaKu-APK-blue?style=for-the-badge&logo=android)](https://github.com/hnxzl/DaKu/releases/download/release/app-release.apk)
+
+🎉 Klik tombol di atas untuk langsung mengunduh aplikasi DaKu dan mulai menabung!
 
 ## 📱 Tampilan Aplikasi
 
