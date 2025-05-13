@@ -11,8 +11,8 @@
 - 📊 Progress Bar untuk melihat kemajuan menabung
 - 📅 Riwayat Nabung berdasarkan tanggal & jumlah
 - 🗑️ Hapus atau reset target tabungan (opsional)
-- 🌓 Dark Mode (opsional)
-- 🔔 Notifikasi harian/mingguan (opsional)
+- 🌓 Dark Mode (belum ada light mode)
+- 🔔 Notifikasi harian/mingguan (soon)
 - 🎯 Multi-goal support (opsional)
 
 ---
@@ -21,7 +21,7 @@
 
 | Beranda Utama | Logo Aplikasi |
 |---------------|----------------|
-| ![Tampilan App](assets/daku_preview.jpg) | ![Logo App](assets/logo_daku.png) |
+| ![Tampilan App](assets/logo/daku_preview) | ![Logo App](assets/logo/logo_daku.png) |
 
 
 
