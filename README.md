@@ -21,7 +21,7 @@
 
 | Beranda Utama | Logo Aplikasi |
 |---------------|----------------|
-| ![Tampilan App](assets/logo/daku_preview) | ![Logo App](assets/logo/logo_daku.png) |
+| ![Tampilan App](assets/logo/daku_preview.jpg) | ![Logo App](assets/logo/logo_daku.png) |
 
 
 
